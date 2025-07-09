@@ -193,7 +193,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **[Your Name]**
 - GitHub: [@hussainbinfazal](https://github.com/hussainbinfazal)
-- LinkedIn: [your-linkedin](https://github.com/hussainbinfazal)
+- LinkedIn: [Mohammad Hussain Khan](https://github.com/hussainbinfazal)
 
 
 ---
